@@ -1,3 +1,6 @@
+**FORKED VERSION USING BINARY FROM https://github.com/astefanutti/decktape/releases/download/v1.0.0/phantomjs-linux-x86-64**
+The forked version embeds remote fonts and makes text selectable and searchable in outputted PDF
+
 Heroku buildpack: PhantomJS
 =======================
 
